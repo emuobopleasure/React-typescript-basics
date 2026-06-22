@@ -5,6 +5,7 @@ import { useState } from "react";
 import CourseGoalList from "./components/CourseGoalList";
 import NewGoal from "./components/NewGoal";
 
+
 export type CourseGoal = {
   title: string
   description: string
