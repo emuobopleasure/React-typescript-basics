@@ -17,5 +17,5 @@ The goal of this repository is to build a strong understanding of React TypeScri
 
 ### 2. React + TypeScript Essentials (In Progress)
 * [x] Defining explicit types/interfaces for Component Props.
-* [ ] Typing React Hooks (`useState`, `useEffect`, `useRef`).
-* [ ] Handling Synthetic Events (`React.ChangeEvent`, `React.FormEvent`).
+* [x] Typing React Hooks (`useState`, `useEffect`, `useRef`).
+* [x] Handling Synthetic Events (`React.ChangeEvent`, `React.FormEvent`).
